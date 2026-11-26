@@ -6,6 +6,12 @@
 
 适用范围包括书稿、教材、项目方案、工作报告、操作手册和培训材料等有固定结构的中文文档。需要按同一模板继续写第二章、第二份时，每份单独商议。
 
+## 成品样稿
+
+[在线预览《数商启航·建立运营数据底座》项目一（PDF，40 页）](./project-01-sample.pdf)
+
+这是使用教学模拟数据完成的中文项目样稿，包含项目概述、分步实训、数据表格、练习和成果评价。
+
 ## 个人试单与报价
 
 **299 元人民币，写一份中文 Word 文档，或一本书中的一个章节。按约定模板排版，成稿 20 页以内。**
@@ -40,6 +46,12 @@
 Send me a template, sample chapter, or example document, along with an outline and source materials for the new document. I’ll write a new Chinese-language Word document using the same heading hierarchy, sections, tables, and layout. For example, I can use a sample chapter as the model for another chapter, or use a sample report to write a new report with the same structure and different source materials.
 
 This service covers structured Chinese-language documents such as book manuscripts, textbooks, project proposals, work reports, operating manuals, and training materials. Additional chapters or documents using the same template are quoted separately.
+
+## Finished Writing Sample
+
+[Preview Project 1: Building a Foundation for E-commerce Operations Data (PDF, 40 pages, in Chinese)](./project-01-sample.pdf)
+
+This sample uses simulated teaching data. It includes a project overview, step-by-step activities, data tables, exercises, and assessment criteria.
 
 ## Individual Trial Orders and Pricing
 
